@@ -120,8 +120,8 @@ export function TaskApplication() {
         <h1>Task Application</h1>
       </header>
       <nav>
-          <h3>Menu</h3>
-          <Link to={"/"}>Front page</Link> <br />
+        <h3>Menu</h3>
+        <Link to={"/"}>Front page</Link> <br />
         <Link to={"/listTasks"}>List your tasks</Link> <br />
         <Link to={"/addTask"}>Add a new task</Link>
       </nav>
