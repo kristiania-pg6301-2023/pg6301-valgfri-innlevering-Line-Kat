@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+#root {
+  background-color: royalblue;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  min-width: 130ch;
+  margin: 1em auto;
+  background-color: aliceblue;
+  border-radius: 1em;
+  padding: 1em;
+  flex: 1;
+}
+
+nav {
+  color: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+nav {
+  text-align: center;
+}
+
+footer {
+  font-size: 20px;
+  text-align: center;
+}
+
+a {
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+#frontpage {
+  text-align: center;
+}
